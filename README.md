@@ -8,3 +8,19 @@ In order to directly compare our work with prior research, we used publicly avai
 [2] Jian Li, Pinjia He, Jieming Zhu, and Michael R Lyu. Software defect prediction via convolutional neural network. In Software Quality, Reliability and Security (QRS), 2017 IEEE International Conference on, pages 318–328. IEEE, 2017.  
 [3] Hoa Khanh Dam, Trang Pham, Shien Wee Ng, Truyen Tran, John Grundy, Aditya Ghose, Taeksu Kim, and Chul-Joo Kim. A deep tree-based model for software defect prediction. arXiv preprint arXiv:1802.00921, 2018.  
 [4] Song Wang, Taiyue Liu, Jaechang Nam, and Lin Tan. Deep semantic feature learning for software defect prediction. IEEE Transactions on Software Engineering, 2018.
+
+
+Contact person: Ajie Utama, utama@ukp.informatik.tu-darmstadt.de
+
+https://www.ukp.tu-darmstadt.de/
+
+Please reach out to us for further questions or if you encounter any issue. You can cite this work by the following:
+
+@InProceedings{UtamaDebias2020,
+  author    = {Utama, P. Ajie and Moosavi, Nafise Sadat and Gurevych, Iryna},
+  title     = {Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance},
+  booktitle = {Proceedings of the 58th Conference of the Association for Computational Linguistics},
+  month     = jul,
+  year      = {2020},
+  publisher = {Association for Computational Linguistics}
+}
