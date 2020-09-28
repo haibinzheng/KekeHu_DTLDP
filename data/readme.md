@@ -1,0 +1,1 @@
+The data sets needed in the project, such as .csv and image files, are placed in this folder.

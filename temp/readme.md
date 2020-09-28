@@ -1,0 +1,1 @@
+Some additional results generated in the project are placed in this folder.
