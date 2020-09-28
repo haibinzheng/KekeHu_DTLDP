@@ -1,6 +1,6 @@
 # KekeHu_DTLDP
 
-## ABSTRACT
+> **Abstract:**
 Software defect prediction aims to automatically locate defective
 code modules to better focus testing resources and human effort.
 Typically, software defect prediction pipelines are comprised of two
